@@ -5,7 +5,7 @@
 **Classe** : CAC1
 
 
-<img src="ichrak.jpg" style="height:464px;margin-right:432px"/>
+<img src="ichrak.jpg" style="height:464px;margin-right:432px"/>    <img src="encgsettat.jpg" style="height:464px;margin-right:432px"/>
 
 <br clear="left"/>
 
